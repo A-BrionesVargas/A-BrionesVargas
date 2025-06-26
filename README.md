@@ -1,23 +1,16 @@
-### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Daniel!
+### Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Soy Anthony Daniel Briones Vargas
 
-## I'm a Student <𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 />
+## Estudiante de  <Ingeniería en Sistemas de Información />
 
-I'm a 20-year-old student based in Costa Rica, with java skills.
-
-- 📚 I'm currently in the third year of my degree.
-- 👨‍💻 I'm a passionate Systems Engineering student at the National University of Costa Rica.
-- 🌐 I'm dedicated to learning and exploring various areas of technology, with a particular interest in software development and technological innovation.
-- 🤝 I'm always looking for opportunities to apply my knowledge in real-world projects and collaborate with other technology enthusiasts.
-- 🔧 In my free time, I enjoy experimenting with new tools and programming languages to enhance my skills and stay updated with the latest industry trends.
-- 🥅 2024 Goals: Create my portfolio and develop systems to optimize my daily life.
+Estudiante proactivo y entusiasta de Ingeniería en Sistemas de Información, con una sólida base en desarrollo de software y gestión de bases de datos. Motivado por aplicar conocimientos teóricos en entornos prácticos y aprender de profesionales del sector. Destaco por mi orientación al trabajo en equipo, autonomía, capacidad de adaptación y resolución de problemas. Busco aportar valor con dedicación y compromiso mientras fortalezco mi experiencia profesional en el área de TI.
 
 
-## 🛠️ Skills
+## 🛠️ Habilidades
 
 <table>
   <tbody>
     <tr>
-      <td colspan="3" align="center"><strong>Backend Development</strong></td>
+      <td colspan="3" align="center"><strong>Backend</strong></td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
@@ -29,12 +22,12 @@ I'm a 20-year-old student based in Costa Rica, with java skills.
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>C++</strong></span><br><br>
-        <img height="64px" width="70px" src="https://isocpp.org/assets/images/cpp_logo.png">
+        <span><strong>Node.JS</strong></span><br><br>
+        <img height="64px" width="70px" src="https://nodejs.org/static/logos/nodejsLight.svg">
       </td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><strong>Frontend Development</strong></td>
+      <td colspan="3" align="center"><strong>Frontend</strong></td>
     </tr>
     <tr valign="top">
         <td width="20%" align="center">
@@ -68,12 +61,12 @@ I'm a 20-year-old student based in Costa Rica, with java skills.
       </td>
     </tr>
     <tr>
-      <td colspan="5" align="center"><strong>Libraries and Frameworks</strong></td>
+      <td colspan="5" align="center"><strong>Frameworks</strong></td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><strong>Spring Boot</strong></span><br><br>
-        <img height="64px" src="./images/logos/spring-boot-logo.png">
+        <span><strong>React</strong></span><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png">
       </td>
       <td width="20%" align="center">
         <span><strong>Laravel</strong></span><br><br>
@@ -85,12 +78,12 @@ I'm a 20-year-old student based in Costa Rica, with java skills.
       </td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><strong>Tools</strong></td>
+      <td colspan="3" align="center"><strong>Herramientas</strong></td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
         <span>𝗚𝗶𝘁</span><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/42141e61f1595a2d4c8d18c653be30f072723656a1ec25dfa5ff36dbc5298de1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667">
+        <img height="64px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>GitHub</strong></span><br><br>
@@ -106,26 +99,16 @@ I'm a 20-year-old student based in Costa Rica, with java skills.
 
 ## 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Contáctame ✨
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/danielbrionesv">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://github.com/A-BrionesVargas">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-  <br/>
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
 </p>
