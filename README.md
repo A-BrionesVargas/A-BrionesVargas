@@ -32,6 +32,11 @@ Desarrollé junto a 3 compañeros un sistema de control de inventario para la ti
 #### 👥 Colaboradores
 [Aaron Matarrita](https://github.com/AaronMatarrita), [Daniel Briones](https://github.com/A-BrionesVargas), [Josue Porras](https://github.com/JosuePorras), [Yeiler Montes](https://github.com/YeilerMR)
 
+## 📚 Educación
+### Universidad Nacional de Costa Rica
+* **Diplomado en Programación de Aplicaciones Informáticas**, obtenido en noviembre del 2024.
+* **Bachillerato en Ingeniería en Sistemas de Información**, en proceso.
+
 
 ## 🛠️ Habilidades
 ### Backend
