@@ -1,101 +1,86 @@
 ### Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Soy Anthony Daniel Briones Vargas
 
-## Estudiante de  <Ingeniería en Sistemas de Información />
+## Estudiante de  <Ingeniería en Sistemas />
 
 Estudiante proactivo y entusiasta de Ingeniería en Sistemas de Información, con una sólida base en desarrollo de software y gestión de bases de datos. Motivado por aplicar conocimientos teóricos en entornos prácticos y aprender de profesionales del sector. Destaco por mi orientación al trabajo en equipo, autonomía, capacidad de adaptación y resolución de problemas. Busco aportar valor con dedicación y compromiso mientras fortalezco mi experiencia profesional en el área de TI.
 
+## 👔 Experiencia
+### 🔗 [Sistema de inventario](https://github.com/SistemaInventarioTienda/SistemaInventarioTienda) / Tienda Zair y Snayder
+Desarrollé junto a 3 compañeros un sistema de control de inventario para la tienda Zair y Snayder. El proyecto constaba de un proceso de 3 semetres, donde aplicamos SCRUM para levantar requerimientos, desarrollar módulos y realizar pruebas. Entregamos todas las funcionalidades solicitadas.
+#### 🧩 Módulos del sistema
+* Usuarios
+* Clientes
+* Proveedores
+* Productos
+* Categorías
+* Crédito
+* Ventas
+* Compras
+* Reportes (PDF y Excel)
+* Transacciones
+* Cierre de caja
+
+#### 💻 Tecnologías
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/></code>
+</div>
+
+#### 👥 Colaboradores
+[Aaron Matarrita](https://github.com/AaronMatarrita), [Daniel Briones](https://github.com/A-BrionesVargas), [Josue Porras](https://github.com/JosuePorras), [Yeiler Montes](https://github.com/YeilerMR)
+
 
 ## 🛠️ Habilidades
+### Backend
+<div>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
+</div>
 
-<table>
-  <tbody>
-    <tr>
-      <td colspan="3" align="center"><strong>Backend</strong></td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><strong>Python</strong></span><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Java</strong></span><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Node.JS</strong></span><br><br>
-        <img height="64px" width="70px" src="https://nodejs.org/static/logos/nodejsLight.svg">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center"><strong>Frontend</strong></td>
-    </tr>
-    <tr valign="top">
-        <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-        <img height="64px" src="./images/logos/html-logo.png">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-        <img height="64px" src="./images/logos/JavaScript-logo.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>CSS</strong></span><br><br>
-        <img height="64px" src="./images/logos/css-logo.png">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center"><strong>Database</strong></td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><strong>SQL Server</strong></span><br><br>
-        <img height="64px" src="https://cdn-icons-png.freepik.com/512/5968/5968409.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>MySQL</strong></span><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>SQLite</strong></span><br><br>
-        <img height="64px" src="./images/logos/sqlite-logo.png">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" align="center"><strong>Frameworks</strong></td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><strong>React</strong></span><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Laravel</strong></span><br><br>
-        <img height="64px" src="./images/logos/laravel-logo.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Django</strong></span><br><br>
-        <img height="64px" src="./images/logos/django-logo.png">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center"><strong>Herramientas</strong></td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>GitHub</strong></span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
-        <img height="64px" src="./images/logos/vsCode-logo.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Frontend
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+</div>
+
+### Frameworks
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/></code>
+</div>
+
+### Bases de Datos
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
+</div>
+
+### Herramientas
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
+</div>
+<br>
+
+# 📈  Estadísticas:
+
+[![](https://streak-stats.demolab.com?user=A-BrionesVargas&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ## 
 <h1 align="center">
