@@ -27,6 +27,7 @@ Desarrollé junto a 3 compañeros un sistema de control de inventario para la ti
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 </div>
 
 #### 👥 Colaboradores
@@ -94,11 +95,15 @@ Desarrollé junto a 3 compañeros un sistema de control de inventario para la ti
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/danielbrionesv">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://github.com/A-BrionesVargas">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+  <a href="https://www.danielbv.dev/">
+	<img alt="Static Badge" src="https://img.shields.io/badge/danielbv.dev-hsl(358%2C%2080%25%2C%2049%25)?label=%F0%9F%8C%90&labelColor=hsl(358%2C%2080%25%2C%2049%25)">
   </a>
 
 </p>
